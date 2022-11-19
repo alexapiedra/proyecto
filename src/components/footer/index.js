@@ -6,6 +6,7 @@ function Footer (){
             <h1>Hola soy el footer </h1>
             <h4>casa de mis padres</h4>
             <p>terminando universidad</p>
+            <h5>mis hermanos estudian</h5>
         </div>
     );
     
