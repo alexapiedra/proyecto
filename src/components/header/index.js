@@ -6,6 +6,7 @@ import { Alert } from 'react-bootstrap';
 const Aux = () => {
     return (
         <div>
+            <h3>comida</h3>
             <h1>Hola soy el header 12345</h1>
             <Alert variant="success">
                 <Alert.Heading>Hey, nice to see you</Alert.Heading>
