@@ -21,6 +21,7 @@ const Aux = () => {
                 </p>
             </Alert>
             <h2>soy un gato</h2>
+            <title>alexandra</title>
         </div>
     );
 };
