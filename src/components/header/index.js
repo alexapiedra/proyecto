@@ -25,6 +25,7 @@ const Aux = () => {
             <h3>alexandra</h3>
             <p>el griego: penta, cinco y grama, escribir. Es donde se escriben las notas y signos musicales. Consta de cinco líneas horizontales, equidistantes y rectas, y cuatro espacios, que se enumeran de abajo hacia arriba.
             </p>
+            <h2>perro</h2>
         </div>
     );
 };
